@@ -1,5 +1,5 @@
 # 📱 Employee Management Mobile App with Blockchain
-
+![Image](https://github.com/user-attachments/assets/0a59b7d8-054e-4fc7-a91b-7219b9fdbed8)
 This project is a **simple yet powerful mobile application** for managing employee data, integrating modern technologies like **Flutter**, **Firebase**, and **Blockchain (Solidity + MetaMask)**.  
 Developed as part of my undergraduate final project (2023), this application emphasizes **security**, **transparency**, and **usability**.
 
