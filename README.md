@@ -1,16 +1,37 @@
-# untitled
+# 📱 Employee Management Mobile App with Blockchain
+https://github.com/user-attachments/assets/d511f609-bf82-4185-a7a2-7ea20ce63a64
 
-A new Flutter project.
+This project is a **simple yet powerful mobile application** for managing employee data, integrating modern technologies like **Flutter**, **Firebase**, and **Blockchain (Solidity + MetaMask)**.  
+Developed as part of my undergraduate final project (2023), this application emphasizes **security**, **transparency**, and **usability**.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Secure employee management system
+- Real-time data synchronization
+- Blockchain-backed RIB (Relevé d'Identité Bancaire) storage
+- Cross-platform mobile UI with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔹 Frontend
+- **Flutter** (Dart)  
+Built with Android Studio, providing a seamless and intuitive user interface across devices.
+
+### 🔹 Backend
+- **Firebase**  
+Used for:
+  - User authentication  
+  - Real-time database  
+  - Cloud storage and hosting  
+
+### 🔹 Blockchain Integration
+- **Solidity** (Smart Contract Language)
+- **Remix IDE** (for development and deployment)
+- **MetaMask** (wallet interaction)
+  
+A smart contract was developed to securely store and manage employees' **RIB (banking identity)**. This ensures:
+- **Immutability**
+- **Data integrity**
+- **Transparency**
