@@ -35,4 +35,4 @@ A smart contract was developed to securely store and manage employees' **RIB (ba
 - **Data integrity**
 - **Transparency**
   
-![Image](https://github.com/user-attachments/assets/bb813a5b-2b01-4113-8167-711a6979dc67)
+[![Image](https://github.com/user-attachments/assets/bb813a5b-2b01-4113-8167-711a6979dc67)](https://github.com/user-attachments/assets/983e7c88-81c0-4175-b943-f6894ffe1fac)
